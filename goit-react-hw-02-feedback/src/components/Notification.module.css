@@ -1,0 +1,7 @@
+/* src/components/Notification.module.css */
+.notification {
+  font-size: 18px;
+  color: #ff6347;
+  margin-top: 20px;
+  text-align: center;
+}

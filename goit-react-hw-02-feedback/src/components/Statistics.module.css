@@ -1,0 +1,21 @@
+/* src/components/Statistics.module.css */
+.statistics {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin-top: 20px;
+}
+
+.statItem {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.total {
+  font-weight: bold;
+}
+
+.positivePercentage {
+  color: #4caf50;
+}
