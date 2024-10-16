@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #FAFAF8FF;
+  min-height: 100vh;
+}
+
+.title {
+  font-size: 2rem;
+  color: #2B81D7FF;
+  margin-bottom: 20px;
+}
+
+.section {
+  width: 100%;
+  max-width: 500px;
+  margin-bottom: 30px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
