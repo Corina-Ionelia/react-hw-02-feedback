@@ -1,0 +1,15 @@
+.filter-group {
+  margin-bottom: 20px;
+}
+
+.filter-group label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.filter-group input {
+  padding: 8px;
+  border: 1px solid #aadefd;
+  border-radius: 4px;
+  width: 100%;
+}
